@@ -22,6 +22,5 @@ We will be reviewing the code snippet `MyComponent.tsx`
 We will spend ~45 minutes working together to identify any issues or improvements that can be made to the component
 
 - Run and mount this component in a React Native environment. Playing around with the component and after reviewing the code, are there any bugs you can identify? How would you fix them?
-  - d
 - Are there any other improvements you believe could be made here?
 - How would you test this?
